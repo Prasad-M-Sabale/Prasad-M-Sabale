@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-sabale&show_icons=true&theme=radical)
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad-M-Sabale&show_icons=true&theme=radical)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-sabale&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-M-Sabale&layout=compact&theme=radical)
 
 ---
